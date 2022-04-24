@@ -13,4 +13,4 @@ contract HelloWorld {
     function retrieveNumber() public view returns (uint) { 
         return number; // Return the number
     }
-}
+} // End of contract
